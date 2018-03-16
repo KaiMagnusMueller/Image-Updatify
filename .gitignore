@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+package-lock.json
+src/custom-presets
+.idea
+.DS_Store
+*.log
